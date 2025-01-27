@@ -15,7 +15,7 @@ class Program
         // Обчислення суми
         double sum = number1 + number2;
 
-        // Виведення результату
+        // Виведення результату 
         Console.WriteLine($"The sum of {number1} and {number2} is {sum}");
     }
 }
